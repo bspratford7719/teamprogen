@@ -1,0 +1,22 @@
+{
+  "name": "team pro-gen",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bspratford7719/teamprogen"
+  },
+  "author": "brittany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bspratford7719/teamprogen"
+  },
+  "homepage": "https://github.com/bspratford7719/teamprogen",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
