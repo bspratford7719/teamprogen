@@ -2,7 +2,7 @@
 'use strict';
 const inquirer = require('inquirer');
 
-console.log('Welcome to the new employees');
+console.log('Welcome to the team!');
 
 const employeeTypes = ['Engineer', 'Intern'];
 
